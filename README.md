@@ -4,7 +4,7 @@ Este repositório contém um projeto de análise de dados focado no catálogo de
 
 ## Estrutura do Repositório
 
-1. **[GLOBOPLAY_WEB_SCRAPING-OBTER_DADOS.ipynb](#)**  
+1. **[GLOBOPLAY_WEB_SCRAPING-OBTER_DADOS.ipynb](https://github.com/opablodantas/globoplay-series-analytics/blob/develop/GLOBOPLAY_WEB_SCRAPING-OBTER_DADOS.ipynb)**  
    Este notebook contém a lógica para extração de dados do site do Globoplay.  
    **Principais pacotes utilizados:**  
    - `selenium` (para navegação automatizada)  
@@ -12,7 +12,7 @@ Este repositório contém um projeto de análise de dados focado no catálogo de
    - `requests` (para requisições HTTP)  
    - `pandas` (para manipulação de dados)  
 
-2. **[GLOBOPLAY_WEB_SCRAPING-ANALYTICS.ipynb](#)**  
+2. **[GLOBOPLAY_WEB_SCRAPING-ANALYTICS.ipynb](https://github.com/opablodantas/globoplay-series-analytics/blob/develop/GLOBOPLAY_WEB_SCRAPING-ANALYTICS.ipynb)**  
    Após consolidar os dados em um único dataframe, neste notebook realizamos análises exploratórias para responder perguntas-chave e gerar insights estratégicos.  
    **Principais bibliotecas utilizadas:**  
    - `pandas` (manipulação de dados)  
